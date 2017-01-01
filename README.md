@@ -2,6 +2,8 @@
 
 This plugin modifies the ImpactJS game engine to advance the simulation by a constant value each tick, rather than the variable amount of time since the last tick.
 
+[Demo](http://commins.ca/impact-fixed-timestep/)
+
 TODO: List benefits
 
 TODO: Add usage instructions
