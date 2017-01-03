@@ -6,4 +6,4 @@ This plugin modifies the ImpactJS game engine to advance the simulation by a con
 
 TODO: List benefits
 
-TODO: Add usage instructions
+TODO: Add usage instructions (in the meantime, see http://impactjs.com/forums/code/fixed-timestep)
